@@ -1,4 +1,6 @@
 ## Hi there 👋
+# Im going to be an engineer
+# i love robotics
 
 <!--
 **orrenw/orrenw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
